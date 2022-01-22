@@ -1,8 +1,12 @@
 # learning_python
 
 Name: Cristhiane B. da Cruz
+
 Github: @barroscruzc
+
 LinkedIn: https://www.linkedin.com/in/barroscruzc/
+
+
 
 Criei esse repositório para guardar os códigos que desenvolvi ao resolver
 problemas simples e exercícios propostos em  cursos, livros ou bootcamps 
